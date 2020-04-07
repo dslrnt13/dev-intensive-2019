@@ -1,6 +1,5 @@
 # Built application files
-<<<<<<< HEAD
-build/
+.build/
 
 # Files for the ART/Dalvik VM
 *.dex
@@ -46,6 +45,7 @@ google-services.json
 
 # Version control
 *.vcs.xml
+
 # User-specific configurations
 *.iml
 
